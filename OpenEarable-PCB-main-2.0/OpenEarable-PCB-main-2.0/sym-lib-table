@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "OpenEarabl-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/OpenEarabl-easyedapro.kicad_sym")(options "")(descr ""))
+)
