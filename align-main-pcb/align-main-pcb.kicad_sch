@@ -5060,6 +5060,16 @@
 		)
 		(uuid "17ff4da0-1825-4fea-abda-d61bf09c3c1a")
 	)
+	(text "3v3 LDO"
+		(exclude_from_sim no)
+		(at 86.868 149.098 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "61f48227-7073-49d3-a1c5-caed7913ef6b")
+	)
 	(text "Diode points from drain to source, \nwill this bypass the charger? (switch\nVSYS to source and VBAT to drain?)"
 		(exclude_from_sim no)
 		(at 107.696 53.34 0)
@@ -5069,6 +5079,16 @@
 			)
 		)
 		(uuid "67cd04ca-44e7-469b-ab82-28f202083f8e")
+	)
+	(text "charge management\ncontroller\n"
+		(exclude_from_sim no)
+		(at 94.742 99.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aee5d9dd-2430-4004-a5d3-4ffbfa0f5d14")
 	)
 	(junction
 		(at 255.27 27.94)
