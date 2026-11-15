@@ -7874,7 +7874,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
+		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
 			(at 21.844 22.86 90)
 			(hide yes)
 			(show_name no)
