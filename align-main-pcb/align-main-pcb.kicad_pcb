@@ -7781,5 +7781,16 @@
 		(layer "F.Cu")
 		(uuid "426a17e4-e441-4d5c-b1ea-6a9cf81b600d")
 	)
+	(gr_rect
+		(start 104 107.5)
+		(end 119 123.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Cu")
+		(uuid "0ce2f3b9-eab3-407b-b167-fed402cd6a36")
+	)
 	(embedded_fonts no)
 )
