@@ -5330,6 +5330,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "IMU"
+		(exclude_from_sim no)
+		(at 198.628 28.194 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "008ac53c-a8f1-4e8a-afb7-7ee6b69626c2")
+	)
 	(text "if V_usb is on (5V) then the PMOS will turn off (Vgs, \nand the battery will cease supplying. PMOS on when \ngate @ 0V, Vsource will be = VBAT, and Vgs will be\n-3.7V, enough to keep PMOS on. "
 		(exclude_from_sim no)
 		(at 66.802 114.808 0)
@@ -8108,7 +8120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
+		(property "Footprint" "Connector_JST:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal"
 			(at 21.844 22.86 90)
 			(hide yes)
 			(show_name no)
